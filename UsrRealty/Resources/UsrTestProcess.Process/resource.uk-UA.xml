@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Початок" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="Кінець" />
+			<Item Name="Caption" Value="Тестовий процес" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Назва процесу#]" />
+		</Items>
+	</Group>
+</Resources>
