@@ -29,7 +29,7 @@
 }
 + MetaData.Schema.D2 {
   "UId": "2785b0df-f5c5-c4dd-dd78-c1012aaaf647",
-  "A2": "UsrColumn4",
+  "A2": "UsrType",
   "A3": "3e1c4db2-de84-473c-9e2f-edfe6319621d",
   "A4": "3e1c4db2-de84-473c-9e2f-edfe6319621d",
   "A5": "59950a1b-e621-4eed-88d2-cb4f71af82b4",
@@ -37,8 +37,8 @@
   "S4": "cceb1626-18e3-4de7-a079-bad7288b395a",
   "E6": true,
   "E20": true,
-  "E17": "UsrColumn4Id",
-  "E18": "UsrColumn4Name"
+  "E17": "UsrTypeId",
+  "E18": "UsrTypeName"
 }
 + MetaData.Schema.D2 {
   "UId": "0d091565-87af-4745-caeb-85a626ed9cc5",

@@ -137,7 +137,12 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					"control": "$PDS_UsrColumn4_uoyiz7d",
 					"listActions": [],
 					"showValueAsLink": true,
-					"controlActions": []
+					"controlActions": [],
+					"visible": true,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": "",
+					"valueDetails": null
 				},
 				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",
@@ -168,7 +173,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					},
 					"PDS_UsrColumn4_uoyiz7d": {
 						"modelConfig": {
-							"path": "PDS.UsrColumn4"
+							"path": "PDS.UsrType"
 						}
 					}
 				}
